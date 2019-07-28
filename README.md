@@ -1,6 +1,6 @@
 # web-satjopg
 
-> My stellar Nuxt.js project
+> My cool Nuxt.js project
 
 ## Build Setup
 
